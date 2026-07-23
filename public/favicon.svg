@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect width="48" height="48" rx="11" fill="#0c1917"/>
+  <rect x="1.25" y="1.25" width="45.5" height="45.5" rx="9.75" fill="none" stroke="#2a453d" stroke-width="1.5"/>
+  <text x="24" y="33" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="26" font-weight="700" fill="#f0a83a">S</text>
+</svg>
