@@ -2,7 +2,7 @@ import AnimatedCounter from "./AnimatedCounter";
 import { StaggerGroup, StaggerItem } from "./motion";
 
 const STATS = [
-  { value: 5, decimals: 0, suffix: "", label: "Real Projects Shipped" },
+  { value: 6, decimals: 0, suffix: "", label: "Real Projects Shipped" },
   { value: 54, decimals: 0, suffix: "K+", label: "Images Classified" },
   { value: 0.92, decimals: 2, suffix: "", label: "R² Score (House Price)" },
   { value: 3, decimals: 0, suffix: "+", label: "Years Professional Experience" },
