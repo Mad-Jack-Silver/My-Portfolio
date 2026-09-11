@@ -154,9 +154,9 @@ export const certifications = [
   {
     title: "AI, Machine Learning & Deep Learning",
     issuer: "NAVTTC, Government of Pakistan",
-    date: "July 2024",
+    date: "June 2026",
     image: "/certificates/navttc-ai-ml.jpg",
-    note: "Program completion shown via candidate portal — formal certificate to follow",
+    credentialId: "B3141094",
   },
   {
     title: "Front-End Development",
